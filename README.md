@@ -2,7 +2,8 @@
 
 ### Run Application using below commands.
     
-    Before starting with below code, run zookeeper and kafka on your system.
+    Before starting with below command, run zookeeper and kafka on your system.
+    And then go to respective Buyer/Restaurant folder.
 
 #### Go to frontend folder:
      npm install
